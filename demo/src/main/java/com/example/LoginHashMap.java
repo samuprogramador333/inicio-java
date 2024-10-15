@@ -4,7 +4,7 @@ import java.util.Map;
 import java.util.Scanner;
 
 public class LoginHashMap {
-    private static Map<string,string>baseDeDatos=new HashMap<>();
+    private static Map<String,String>baseDeDatos=new HashMap<>();
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int opcion = -1;
